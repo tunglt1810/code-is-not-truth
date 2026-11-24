@@ -1,0 +1,6 @@
+name = "code-is-not-truth"
+version = "0.1.0"
+defaultTargets = ["CodeIsNotTruth"]
+
+[[lean_lib]]
+name = "CodeIsNotTruth"
